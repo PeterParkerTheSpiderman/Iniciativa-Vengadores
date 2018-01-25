@@ -19,7 +19,22 @@ public class IniciativaVengadores {
         System.out.println("Hola mundo");
         System.out.println("Viva mexico");
     }
+    
+    public void suicidio(){}
+    
+        public void seVaConOtro(){}
     public void Puta(){
-    String EllaNoMeAma;
+        
+    String EllaNoMeAma = null;
+    double EllaSiTeAma=1;
+    double EllaNoTeAma=0;
+    double si = 1;
+    if(EllaNoTeAma==si){
+        suicidio();
+    
+    }else if(EllaSiTeAma==si){
+    seVaConOtro();
+    suicidio();
+    }
     }
 }
