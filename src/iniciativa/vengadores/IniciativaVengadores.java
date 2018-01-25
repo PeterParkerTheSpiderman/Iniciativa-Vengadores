@@ -19,5 +19,5 @@ public class IniciativaVengadores {
         System.out.println("Hola mundo");
         System.out.println("Viva mexico");
     }
-    public void Puta{}
+    public void Puta(){}
 }
