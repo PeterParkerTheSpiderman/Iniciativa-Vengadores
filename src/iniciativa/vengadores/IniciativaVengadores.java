@@ -18,7 +18,6 @@ public class IniciativaVengadores {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("Viva mexico");
-        System.out.println("ha andy le gusta escuchar musica");
     }
-    
+    public void Puta{}
 }
